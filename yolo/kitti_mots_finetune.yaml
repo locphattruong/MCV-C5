@@ -1,0 +1,8 @@
+path: KITTI_MOTS_YOLO_finetune
+train: train/images
+val: eval/images
+
+names:
+  0: person
+  1: car
+  2: van
